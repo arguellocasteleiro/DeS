@@ -1,1 +1,2 @@
-
+BlueTransformation_voc_217EntriesEN.xls
+BlueTransformation vocabulary with 217 entries in ENglish
