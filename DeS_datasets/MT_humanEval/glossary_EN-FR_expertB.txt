@@ -1,0 +1,135 @@
+# ___________________________ format
+
+ ###termAdd[num] = "term ENglish" | term FRench
+
+2 terms were Not translated and they have ? as the translation, please Ignore them
+
+# ___________________________ terms to rate
+
+ 
+5###termAdd[0] = "Abundance" | Abondance
+
+5###termAdd[1] = "Algae" | Algues
+
+4###termAdd[2] = "Apparent food consumption" | Consommation alimentaire apparente
+
+4###termAdd[3] = "Apparent food consumption per capita" | consommation alimentaire apparente par habitant
+
+3###termAdd[4] = "Aquaculture expansion" | Expansion de l'aquaculture
+
+4###termAdd[5] = "Aquaculture intensification" | Intensification de l'aquaculture
+
+5###termAdd[6] = "Aquafeed" | Aliments aquacoles
+
+5###termAdd[7] = "Aquaculture feeds" | Aliments aquacoles
+
+5###termAdd[8] = "Aquatic animals" | Animaux aquatiques
+
+5###termAdd[9] = "Aquatic animal foods" | Aliments aquatiques d'origine animale
+
+5###termAdd[10] = "Aquatic food" | Produits alimentaires d'origine aquatique
+
+5###termAdd[11] = "Aquatic foods" | Produits alimentaires aquatiques
+
+5###termAdd[12] = "Aquatic food systems" | Systèmes alimentaires aquatiques
+
+5###termAdd[13] = "Aquatic products" | Produits aquatiques
+
+3###termAdd[14] = "Aquatic value chain" | Chaîne de valeur aquatique
+
+5###termAdd[15] = "Biodiversity mainstreaming" | Intégration de la biodiversité
+
+4###termAdd[16] = "Biofloc technology" | Technologie biofloc
+
+3###termAdd[17] = "Biologically sustainable stock" | Stock de poissons biologiquement viable
+
+3###termAdd[18] = "Biologically unsustainable stock" | Stock de poissons biologiquement non viable
+
+5###termAdd[19] = "Biosecurity" | Biosécurité
+
+5###termAdd[20] = "Blue Transformation" | Transformation bleue
+
+5###termAdd[21] = "Capture-based aquaculture" | Aquaculture fondée sur la pêche
+
+5###termAdd[22] = "Capture fisheries production" | Production de la pêche de capture
+
+5###termAdd[23] = "Capture fisheries catch" | Production de la pêche de capture
+
+ignore, not to rate ###termAdd[24] = "Capture fisheries landings" | ?
+
+5###termAdd[25] = "Certification" | Certification
+
+5###termAdd[26] = "Ecolabelling" | Étiquetage écologique
+
+5###termAdd[27] = "Ecosystem approach to aquaculture" | Approche écosystémique de l'aquaculture
+
+5###termAdd[28] = "Ecosystem approach to fisheries" | Approche écosystémique des pêches
+
+5###termAdd[29] = "El Niño Southern Oscillation" | Oscillation australe El Niño (ENSO)
+
+5###termAdd[30] = "FAO Major Fishing Areas for statistical purposes" | Principales zones de pêche de la FAO à  des fins statistiques
+
+5###termAdd[31] = "Farmed type" | Organisme d'élevage
+
+5###termAdd[32] = "Fish silage" | Ensilage de poisson
+
+1###termAdd[33] = "Fisheries access arrangement" | Dispositif relatif à l'accès aux lieux de pêche
+
+4###termAdd[34] = "Fisheries and aquaculture production" | Production halieutique et aquacole
+
+4###termAdd[35] = "Fisheries and aquaculture products" | Produits halieutiques et aquacoles
+
+5###termAdd[36] = "Fishery management" | Aménagement des pêches
+
+5###termAdd[37] = "Hybrid introgression" | Introgression par hybridation
+
+5###termAdd[38] = "Illegal, unreported and unregulated fishing (IUU fishing)" | Pêche illicite, non déclarée et non réglementée (pêche INDNR)
+
+5###termAdd[39] = "Integrated multitrophic aquaculture" | Aquaculture multitrophique intégrée
+
+5###termAdd[40] = "Inbreeding depression" | Dépression consanguine
+
+3###termAdd[41] = "Indicator inland fishery" | Pêcherie continentale indicative
+
+5###termAdd[42] = "Integrated water resource management" | Gestion intégrée des ressources en eau
+
+5###termAdd[43] = "Market access" | Accès aux marchés
+
+5###termAdd[44] = "Maximum sustainable yield (MSY)" | Rendement maximal durable
+
+5###termAdd[45] = "Other aquatic products" | Autres produits aquatiques
+
+5###termAdd[46] = "Overfished stocks" | Stock de poissons surexploité
+
+5###termAdd[47] = "Precision farming" | Agriculture de précision
+
+5###termAdd[48] = "Precision feeding" | Alimentation de précision
+
+4###termAdd[49] = "Preferential access in international trade" | Accès préférentiel dans le cadre du commerce international
+
+5###termAdd[50] = "Recirculating aquaculture system" | Système aquacole à recirculation de l'eau
+
+5###termAdd[51] = "Risk analysis" | Analyse des risques
+
+5###termAdd[52] = "Risk assessment" | Évaluation des risques
+
+5###termAdd[53] = "Risk management" | Gestion des risques
+
+4###termAdd[54] = "Seaweed cultivar" | Cultivar d'algue marine
+
+5###termAdd[55] = "Stock assessment" | Évaluation des stocks
+
+5###termAdd[56] = "Stock maximally sustainably fished" | Stock de poissons exploité au niveau durable maximal
+
+5###termAdd[57] = "Traceability" | Traçabilité
+
+5###termAdd[58] = "Transshipment" | Transbordement
+
+5###termAdd[59] = "Underfished stocks" | Stock de poissons sous-exploité
+
+5###termAdd[60] = "Vulnerable marine ecosystems" | Écosystèmes marins vulnérables
+
+5###termAdd[61] = "Water basin" | Bassin hydrographique
+
+ignore, not to rate ###termAdd[62] = "Water catchment basin" | ?
+
