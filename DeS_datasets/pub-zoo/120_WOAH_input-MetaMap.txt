@@ -1,0 +1,121 @@
+Anthrax .
+Crimean Congo haemorrhagic fever .
+Echinococcus granulosus .
+Echinococcus multilocularis .
+Equine encephalomyelitis .
+Heartwater .
+Infection with Aujeszky's disease virus .
+Infection with bluetongue virus .
+Infection with Brucella abortus, Brucella melitensis and Brucella suis .
+Infection with epizootic haemorrhagic disease .
+Infection with foot and mouth disease virus .
+Infection with Mycobacterium tuberculosis complex .
+Infection with rabies virus .
+Infection with Rift Valley fever virus .
+Infection with rinderpest virus .
+Infection with Trichinella spp. .
+Japanese encephalitis .
+New world screwworm .
+Old world screwworm .
+Paratuberculosis .
+Q fever .
+Surra .
+Tularemia .
+West Nile Fever .
+Bovine anaplasmosis .
+Bovine babesiosis .
+Bovine genital campylobacteriosis .
+Bovine spongiform encephalopathy .
+Bovine viral diarrhoea .
+Enzootic Bovine Leukosis .
+Haemorrhagic septicaemia .
+Infectious bovine rhinotracheitis/infectious pustular vulvovaginitis .
+Infection with lumpy skin disease virus .
+Infection with Mycoplasma mycoides subsp. mycoides SC .
+Theileriosis .
+Trichomonosis .
+Trypanosomosis .
+Caprine arthritis .
+encephalitis .
+Contagious agalactia .
+Contagious caprine pleuropneumonia .
+Infection with Chlamydophila abortus .
+Infection with peste des petits ruminants virus .
+Maedi Visna .
+Nairobi sheep disease .
+Ovine epididymitis .
+Salmonellosis .
+Scrapie .
+Sheep pox and goat pox .
+Contagious equine metritis .
+Dourine .
+Equine encephalomyelitis .
+Equine infectious anaemia .
+Equine influenza .
+Equine piroplasmosis .
+Infection with African horse sickness virus .
+Infection with Equid herpesvirus-1 .
+Infection with equine arteritis virus .
+Infection with Burkholderia mallei .
+Venezuelan equine encephalomyelitis .
+Infection with African swine fever virus .
+Classical swine fever .
+Infection with porcine reproductive and respiratory syndrome virus .
+Infection with Taenia solium .
+Nipah virus encephalitis .
+Transmissible gastroenteritis .
+Avian chlamydiosis .
+Avian infectious bronchitis .
+Avian infectious laryngotracheitis .
+Avian mycoplasmosis .
+Avian mycoplasmosis .
+Duck virus hepatitis .
+Fowl typhoid .
+Infection with High Pathogenicity Avian Influenza viruses .
+Infection with Influenza A viruses of high pathogenicity in birds other than poultry incl. wild birds .
+Infection with Newcastle disease virus .
+Infectious bursal disease .
+Low Pathogenic Avian Influenza Transmissible to Humans .
+Pullorum disease .
+Turkey rhinotracheitis .
+Myxomatosis .
+Rabbit haemorrhagic disease .
+Infection of honey bees with Melissococcus plutonius .
+Infection of honey bees with Paenibacillus larvae .
+Infestation of honey bees with Acarapis woodi .
+Infestation of honey bees with Tropilaelaps spp. .
+Infestation of honey bees with Varroa spp. .
+Infestation with Aethina tumida .
+Camelpox .
+Leishmaniosis .
+Infection with Aphanomyces invadens .
+Infection with epizootic haematopoietic necrosis virus .
+Infection with Gyrodactylus salaris .
+Infection with HPR-deleted or HPRO infectious salmon anaemia virus .
+Infection with infectious haematopoietic necrosis .
+Infection with koi herpesvirus .
+Infection with red sea bream iridovirus .
+Infection with salmonid alphavirus .
+Infection with spring viraemia of carp virus .
+Infection with viral haemorrhagic septicaemia virus .
+Tilapia Lake Virus .
+Infection with abalone herpesvirus .
+Infection with Bonamia exitiosa .
+Infection with Bonamia ostreae .
+Infection with Marteilia refringens .
+Infection with Perkinsus marinus .
+Infection with Perkinsus olseni .
+Infection with Xenohaliotis californiensis .
+Acute hepatopancreatic necrosis disease .
+Infection with Aphanomyces astaci .
+Infection with Decapod Iridescent Virus 1 .
+Infection with Hepatobacter penaei .
+Infection with infectious hypodermal and haematopoietic necrosis virus .
+Infection with infectious myonecrosis virus .
+Infection with Macrobrachium rosenbergii nodavirus .
+Infection with Taura syndrome virus .
+Infection with white spot syndrome virus .
+Infection with yellow head virus genotype 1 .
+Infection with Batrachochytrium dendrobatidis .
+Infection with Batrachochytrium salamandrivorans .
+Infection with Ranavirus species .

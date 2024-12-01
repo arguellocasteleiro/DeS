@@ -1,0 +1,58 @@
+Anthrax .
+Animal influenza .
+Avian influenza .
+Bovine tuberculosis .
+Campylobacteriosis .
+Cat scratch fever .
+Cowpox .
+Cryptosporidiosis .
+Cysticercosis .
+Taeniasis .
+Erysipeloid .
+Fish tank . 
+swimming pool granuloma .
+Giardiasis .
+Haemorrhagic colitis . 
+haemolytic uraemic syndrome .
+Hantavirus syndromes .
+Hepatitis E .
+Hydatid disease .
+Leptospirosis .
+Listeriosis .
+Louping ill .
+Lyme disease .
+Lymphocytic choriomeningitis .
+Orf .
+Ovine chlamydiosis .
+Pasteurellosis .
+Psittacosis .
+Q fever .
+Rabies .
+Rat bite fever .
+Ringworm .
+Salmonellosis .
+Streptococcal sepsis .
+Streptococcal sepsis .
+Toxocariasis .
+Toxoplasmosis .
+Zoonotic diphtheria .
+Alveolar echinococcosis .
+Brucellosis .
+Crimean-Congo haemorrhagic fever .
+Ebola virus disease .
+Glanders .
+Hendra virus infection .
+Kyasanur Forest disease .
+Lassa fever .
+Marburg virus disease .
+MERS .
+Monkeypox .
+Nipah virus infection .
+Plague .
+Rabies .
+Rift Valley fever .
+Tickborne encephalitis .
+Trichinellosis .
+Tularemia .
+West Nile virus infection .
+Yellow fever .
