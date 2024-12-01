@@ -1,0 +1,220 @@
+Avian Chlamydiosis .
+B. canis .
+B. canis infection .
+Babesiosis .
+Brucella canis .
+C. bovis .
+C. burnetii .
+C. burnetii strains .
+C. coli .
+C. fetus .
+C. fetus fetus .
+C. fetus venerealis .
+C. fetus venerealis intermedius .
+C. hyointestinalis .
+C. jejuni .
+C. parvum .
+C. parvum IIaA19G1R1 .
+C. ulcerans .
+C. ulcerans isolates .
+Campylobacter .
+Campylobacter coli .
+Campylobacter fetopathy .
+Campylobacter fetus fetus .
+Campylobacter isolates .
+Campylobacter jejuni .
+Campylobacter sp. .
+Campylobacter species .
+Campylobacter spp .
+Campylobacter spp. .
+Chlamydia .
+Chlamydia abortus .
+Chlamydia psittaci .
+Chlamydia sp. .
+Corynebacterium .
+Corynebacterium ulcerans .
+Corynebacterium ulcerans infection .
+Coxiella burnetii .
+Cryptosporidiosis .
+Cryptosporidium .
+Cryptosporidium infection .
+Cryptosporidium oocysts .
+Cryptosporidium parvum .
+Cryptosporidium parvum infection .
+Cryptosporidium parvum subtype llaA15G2R1 .
+Cysticercus bovis .
+Cysticercus bovis infection .
+Cysticersus .
+Cysticersus bovis .
+Cysticersus bovis infection .
+Dirofilaria repens .
+E. coli .
+E. coli O157:H7 .
+E. coli STEC O157 .
+E. granulosus .
+E.coli .
+E.coli O157 .
+Echinococcus granulosus .
+Echinococcus multilocularis .
+Ehrlichiosis .
+Escherichia coli septicaemia .
+Fasciola hepatica .
+HEV .
+HEV RNA .
+Hantavirus RNA .
+Heartworm .
+Hepatitis E .
+Hepatitis E (HEV) virus .
+Human campylobacteriosis .
+IIaA19G1R1 .
+K. pneumoniae .
+K. pneumoniae subsp. pneumoniae .
+Klebsiella pneumoniae .
+Klebsiella pneumoniae subsp. pneumoniae .
+L. Canicola .
+L. Pomona .
+Leishmaniasis .
+Leptospira .
+Leptospira DNA .
+Leptospira Pomona .
+Leptospira serovars .
+Leptospires .
+Linguatula serrata .
+Listeria .
+Listeria monocytogenes .
+Listeria monocytogenes serotype 1/2a .
+Listeria sp. .
+Listeria spp. .
+M. avium .
+M. bovis .
+M. celatum .
+M. fortuitum .
+M. gordonae .
+M. kumamotonense .
+M. malmoense .
+M. microti .
+M. phlei .
+M. szulgai .
+M. terrae .
+M. tuberculosis complex .
+Mycobacterium .
+Mycobacterium avium .
+Mycobacterium avium complex .
+Mycobacterium bovis .
+Mycobacterium caprae .
+Mycobacterium microti .
+Mycobacterium vaccae .
+O157 .
+O55 .
+Onchocerca lupi parasitosis .
+Ovine abortion .
+PVL-MRSA .
+Panton-Valentine Leukocidin (PVL) .
+Psittacosis .
+Q fever .
+Q fever abortion .
+Q-fever .
+Rabies .
+S. suis .
+S. suis type 1/2 .
+STEC .
+STEC O103 .
+STEC O145 .
+STEC O157 .
+STEC O26 .
+Salmonella sp. .
+Seoul hantavirus infection .
+Shiga toxin-producing Escherichia coli .
+Sporotrichosis .
+Staphylococcus aureus .
+Streptococcus suis .
+Streptococcus suis isolates .
+Streptococcus suis serotypes .
+Streptococcus suis type 2 .
+T. gondii .
+T. gondii infection .
+T.gondii .
+Thelaziasis .
+Tongue worm .
+Toxigenic C. ulcerans .
+Toxoplasma .
+Toxoplasma fetopathy .
+Toxoplasma gondii .
+Toxoplasma serology .
+Unclassified mycobacteria .
+VT .
+VTEC .
+VTEC O157 .
+VTEC O157 PT 21/28 infection .
+VTEC O157 PT34 .
+VTEC O157 infection .
+VTEC O55 .
+VTEC O55 infection .
+Verocytotoxigenic-producing E. coli (VTEC, STEC) O157 .
+Verocytotoxigenic-producing E.coli (VTEC) O157 .
+Verocytotoxin (VT) .
+Yersinia pseudotuberculosis .
+Yersinia sp. .
+Yersinia spp. .
+abortion .
+abortions .
+avian chlamydiosis .
+bovine cysticercosis .
+campylobacter .
+campylobacter isolates .
+campylobacteriosis .
+campylobacters .
+canine brucellosis .
+cryptosporidia .
+cryptosporidial .
+cryptosporidiosis .
+cysticercosis .
+encephalitic listeriosis .
+fasciolosis .
+hantavirus .
+hantavirus infection .
+heavy cryptosporidial burden .
+hepatitis E .
+hepatitis E virus .
+human C. parvum .
+human cryptosporidiosis .
+hydatid .
+hydatid disease .
+infection of Echinococcus granulosus .
+leptospiral .
+leptospiral DNA .
+leptospires .
+leptospirosis .
+listerial .
+listerial encephalitis .
+listerioisis .
+listeriosis .
+llaA15G2R1 .
+mycobacteria .
+non-verocytotoxigenic .
+non-verocytotoxigenic strains .
+pathogenic Leptospira DNA .
+pathogenic Leptospira serovars .
+pathogenic leptospires .
+pneumoniae .
+psittacosis .
+septicaemia .
+septicaemic E. coli infection .
+strain of meticillin resistant Staphylococcus aureus (PVL-MRSA) .
+systemic leptospirosis .
+thermophilic Campylobacter .
+thermophilic Campylobacter coli .
+thermophilic campylobacters .
+tick activity .
+ticks .
+ticks on livestock .
+toxigenic C. ulcerans .
+toxigenic Corynebacterium ulcerans .
+toxigenic Corynebacterium ulcerans infections .
+toxigenic strain of C. ulcerans .
+toxoplasmosis .
+unclassified mycobacteria .
+verocytotoxigenic .
+verocytotoxigenic (VTEC) O157 .
+yersiniosis .
+
