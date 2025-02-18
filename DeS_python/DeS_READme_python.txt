@@ -6,5 +6,5 @@ ___________________________ May/October 2024
 DeS_SGAI-exp_text-img-video-audio.py
 ___________________________ November 2024
 DeS_pub_zoo_3lines.py
-pub_zoo_KGs.py
+DeS_pub_zoo_KGs.py
 ___________________________
