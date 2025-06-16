@@ -1,3 +1,4 @@
+--- --- --- version v0 from November 2024
 Input for MetaMap
 ___________________________ animal diseases
 VIDA_input-MetaMap.txt
