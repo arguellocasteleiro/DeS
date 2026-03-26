@@ -10,3 +10,9 @@ DarthVader_ex.mp4
 
 ### input audio file
 minds14_audioFile.wav
+
+### input image file [ Well-known Standard Test Image "Lenna" ]
+Lenna_wikipedia.png
+
+available at: 
+https://en.wikipedia.org/wiki/File:Lenna_(test_image).png
