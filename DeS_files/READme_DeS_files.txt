@@ -16,3 +16,9 @@ Lenna_wiki.png
 
 available at: 
 https://en.wikipedia.org/wiki/File:Lenna_(test_image).png
+
+### input image file [ Well-known painting "The Ninth Wave" ]
+Aivazovsky_9thWave_wiki.jpg
+
+available at: 
+https://en.wikipedia.org/wiki/Ivan_Aivazovsky#/media/File:Hovhannes_Aivazovsky_-_The_Ninth_Wave_-_Google_Art_Project.jpg
